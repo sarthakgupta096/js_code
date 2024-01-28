@@ -1,2 +1,2 @@
 # js_code
-this is the javascript script repo
+this is the javascript script repository
